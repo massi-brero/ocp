@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="de.massisoft.ocp.assignments.chapter2.Bar.BarImpl"/>
+    <fullyQualifiedTypeName name="de.massisoft.ocp.assignments.chapter2.Foo.FooImpl"/>
+    <fullyQualifiedTypeName name="de.massisoft.ocp.assignments.chapter2.bar.BarImpl"/>
+</qualifiedTypeNameHistroy>

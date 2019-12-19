@@ -1,0 +1,6 @@
+package de.massisoft.ocp.assignments.chapter2.Foo;
+
+public class FooImpl {
+	public String ClassName = "FooImpl";
+	public static String PckgName = "Foo";
+}

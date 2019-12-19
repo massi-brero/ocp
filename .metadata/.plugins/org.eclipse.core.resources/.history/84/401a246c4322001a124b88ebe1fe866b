@@ -1,0 +1,5 @@
+package de.massisoft.ocp.assignments.chapter2.Bar;
+
+public class FooImpl {
+
+}

@@ -1,0 +1,14 @@
+package de.massisoft.ocp.assignments.chapter2.Foo;
+
+import de.massisoft.ocp.assignments.chapter2.Bar.BarImpl;
+
+public class FooImpl {
+	public String ClassName = "FooImpl";
+	public static String PckgName = "Foo";
+	
+	public static void main(String[] args) {
+		BarImpl bar = new BarImpl();
+		System.out.println(bar.ClassName);
+		System.out.println(bar.PckgName);
+	}
+}

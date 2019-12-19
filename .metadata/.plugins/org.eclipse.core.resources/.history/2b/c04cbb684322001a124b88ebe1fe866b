@@ -1,0 +1,6 @@
+package de.massisoft.ocp.assignments.chapter2.Foo;
+
+public class BarImpl {
+	public String Classname = "Foo";
+	public static string FooName = "Foo";
+}
